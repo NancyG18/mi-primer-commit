@@ -1,0 +1,22 @@
+.class1 {
+    color: rgb(0, 0, 0); font-size: 35px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; text-align: center;
+}
+.class2 {
+    font-size: 17px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.class3 { 
+    font-size: 13px; color: grey; font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.class4 {
+    font-size: 24px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+section h3 {
+    font-size: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.class5 {
+    background-color: rgb(235, 233, 230);
+}
+.link { 
+    font-size: 18px; font-family: Verdana, Geneva, Tahoma, sans-serif; color: 222, 18, 255;
+}
+/* Use class porque los podia reutilizar siempre.*/
